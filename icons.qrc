@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/icons" >
+        <file alias="armor" >icons/armor.png</file>
+        <file alias="calc" >icons/calc.png</file>
+        <file alias="ingots" >icons/ingots.png</file>
+        <file alias="leather" >icons/leather.png</file>
+        <file alias="scales" >icons/scales.png</file>
+        <file alias="spells" >icons/spells.png</file>
+        <file alias="shields" >icons/shields.png</file>
+        <file alias="uodt" >icons/uodt.png</file>
+    </qresource>
+</RCC>
